@@ -1,0 +1,21 @@
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS Working 29th August 2020/obj/iPhoneSimulator/Debug/device-builds/ipad (7th generation)-13.6/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS Working 29th August 2020/obj/iPhoneSimulator/Debug/device-builds/ipad (7th generation)-13.6/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS Working 29th August 2020/obj/iPhoneSimulator/Debug/device-builds/ipad (7th generation)-13.6/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS Working 29th August 2020/obj/iPhoneSimulator/Debug/device-builds/ipad (7th generation)-13.6/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS Working 29th August 2020/obj/iPhoneSimulator/Debug/device-builds/ipad (7th generation)-13.6/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS Working 29th August 2020/obj/iPhoneSimulator/Debug/device-builds/ipad (7th generation)-13.6/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS Working 29th August 2020/obj/iPhoneSimulator/Debug/device-builds/ipad (7th generation)-13.6/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS Working 29th August 2020/obj/iPhoneSimulator/Debug/device-builds/ipad (7th generation)-13.6/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

@@ -1,0 +1,26 @@
+{
+  "name": "Plazma",
+  "version": "0.72.1",
+  "manifest_version": 2,
+  "minimum_chrome_version": "28",
+  "description": "Lava Lamp",
+  "default_locale": "en",
+  "offline_enabled": true,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": {
+    "16": "images/plazma128.png",
+    "48": "images/plazma128.png",
+    "128": "images/plazma128.png",
+    "512": "images/plazma512.png"
+  },
+  "requirements": {
+    "3D": {
+      "features": ["webgl"]
+    }
+  },
+  "permissions": [ "fullscreen" ]
+}

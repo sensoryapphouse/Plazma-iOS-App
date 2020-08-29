@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/AppIcon60x60@2x.png">
+      <LogicalName>AppIcon60x60@2x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/AppIcon76x76@2x~ipad.png">
+      <LogicalName>AppIcon76x76@2x~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/LaunchImage-1100-Portrait-2436h@3x.png">
+      <LogicalName>LaunchImage-1100-Portrait-2436h@3x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/LaunchImage-1100-Landscape-2436h@3x.png">
+      <LogicalName>LaunchImage-1100-Landscape-2436h@3x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/LaunchImage-800-Portrait-736h@3x.png">
+      <LogicalName>LaunchImage-800-Portrait-736h@3x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/LaunchImage-800-Landscape-736h@3x.png">
+      <LogicalName>LaunchImage-800-Landscape-736h@3x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/LaunchImage-800-667h@2x.png">
+      <LogicalName>LaunchImage-800-667h@2x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/LaunchImage-700@2x.png">
+      <LogicalName>LaunchImage-700@2x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/LaunchImage-700-568h@2x.png">
+      <LogicalName>LaunchImage-700-568h@2x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/LaunchImage-700-Portrait~ipad.png">
+      <LogicalName>LaunchImage-700-Portrait~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/LaunchImage-700-Landscape~ipad.png">
+      <LogicalName>LaunchImage-700-Landscape~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/LaunchImage-700-Portrait@2x~ipad.png">
+      <LogicalName>LaunchImage-700-Portrait@2x~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/LaunchImage-700-Landscape@2x~ipad.png">
+      <LogicalName>LaunchImage-700-Landscape@2x~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/LaunchImage.png">
+      <LogicalName>LaunchImage.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/LaunchImage@2x.png">
+      <LogicalName>LaunchImage@2x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/LaunchImage-568h@2x.png">
+      <LogicalName>LaunchImage-568h@2x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/LaunchImage-Portrait~ipad.png">
+      <LogicalName>LaunchImage-Portrait~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/LaunchImage-Portrait~ipad.png">
+      <LogicalName>LaunchImage-Portrait~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/LaunchImage-Landscape~ipad.png">
+      <LogicalName>LaunchImage-Landscape~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/LaunchImage-Landscape~ipad.png">
+      <LogicalName>LaunchImage-Landscape~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/LaunchImage-Portrait@2x~ipad.png">
+      <LogicalName>LaunchImage-Portrait@2x~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/LaunchImage-Portrait@2x~ipad.png">
+      <LogicalName>LaunchImage-Portrait@2x~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/LaunchImage-Landscape@2x~ipad.png">
+      <LogicalName>LaunchImage-Landscape@2x~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/LaunchImage-Landscape@2x~ipad.png">
+      <LogicalName>LaunchImage-Landscape@2x~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/bundle/Assets.car">
+      <LogicalName>Assets.car</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>

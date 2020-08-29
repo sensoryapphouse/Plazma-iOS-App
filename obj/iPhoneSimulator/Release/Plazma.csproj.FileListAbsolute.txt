@@ -1,0 +1,14 @@
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/bin/iPhoneSimulator/Release/NavBarTrans.exe
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhoneSimulator/Release/coremlc/_PartialAppManifest.items
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhoneSimulator/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhoneSimulator/Release/optimized/Content/images/button.png
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhoneSimulator/Release/optimized/Content/images/plazma128.png
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhoneSimulator/Release/optimized/Content/images/plazma512.png
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhoneSimulator/Release/optimized/Content/images/splash.png
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhoneSimulator/Release/optimized/plazma-splash.png
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhoneSimulator/Release/optimized/
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhoneSimulator/Release/Plazma.csproj.CoreCompileInputs.cache
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhoneSimulator/Release/NavBarTrans.exe

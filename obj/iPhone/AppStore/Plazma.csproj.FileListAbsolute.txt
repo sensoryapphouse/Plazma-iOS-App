@@ -1,0 +1,14 @@
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/bin/iPhone/AppStore/Plazma.exe
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhone/AppStore/ibtool/_BundleResourceWithLogicalName.items
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhone/AppStore/actool/_PartialAppManifest.items
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhone/AppStore/actool/_BundleResourceWithLogicalName.items
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhone/AppStore/coremlc/_PartialAppManifest.items
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhone/AppStore/coremlc/_BundleResourceWithLogicalName.items
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhone/AppStore/optimized/Content/images/button.png
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhone/AppStore/optimized/Content/images/plazma128.png
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhone/AppStore/optimized/Content/images/plazma512.png
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhone/AppStore/optimized/Content/images/splash.png
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhone/AppStore/optimized/plazma-splash.png
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhone/AppStore/optimized/
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhone/AppStore/Plazma.csproj.CoreCompileInputs.cache
+/Users/dave/Documents/Sensory App House/Apps/Source Code Downloads/SAH iOS Apps/SAH_Plazma_iOS v1.53- 29-8-20-new keyboardcontrol code/obj/iPhone/AppStore/Plazma.exe
